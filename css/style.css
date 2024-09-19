@@ -85,11 +85,6 @@ nav{
     overflow: hidden;
 }
 
-
-.users{
-    width: 646px;
-}
-
 .leftuser, .rightuser{
     width: 236px;
 }
@@ -928,6 +923,10 @@ nav{
     display: inline-block;
     list-style: none;
     margin-left: 10px;
+}
+
+.socials ul li:first-child{
+        margin: 0px;
 }
 
 .socials ul{
